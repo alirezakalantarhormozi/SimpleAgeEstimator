@@ -11,10 +11,11 @@ This project uses a **Convolutional Neural Network (CNN)** to perform **age regr
 ---
 
 ## 📁 Project Structure
+```bash
 cnn_age_reg_image/
 ├── cnn_age_reg_image.ipynb # Main Jupyter notebook
 └── README.md # Project documentation
-
+```
 ---
 
 ## 🚀 Features
